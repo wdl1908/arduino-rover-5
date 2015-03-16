@@ -1,0 +1,1 @@
+This project is an attempt to make hardware and software to control the Dagu rover 5 chassis
